@@ -1,4 +1,4 @@
 function saludo(){
-    console.log("Bienvenido");
+    console.log("Bienvenido al proyecto web colegio");
 
 }
