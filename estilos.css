@@ -9,3 +9,8 @@ body{
 h3{
     color: blue;
 }
+
+p{
+    text-justify: auto;
+    color: blue;
+}
